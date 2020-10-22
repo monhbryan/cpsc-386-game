@@ -4,7 +4,7 @@ The README is the first document someone sees when they clone the repository or 
 At a minimum, describe the game, the game's audience, and the sytem requirements. Include images and hyperlinks as needed to help the reader understand what the games is about.
 
 You may wish to describe the game rules in this file or in an additional file of your choosing. If it is in an additional file, make it clear to the reader where game play instructions can be found.
-
+_____________________________________________________________
 Hello! This is my single-player game that is based off of the Monty Hall Problem (video at the end)
 
 The objective of this game is to win $1,000,000 by picking the correct door out of three doors.
